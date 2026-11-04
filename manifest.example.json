@@ -1,0 +1,17 @@
+{
+  "contentVersion": 2,
+  "versionName": "1.1.0",
+  "minVersionCode": 1,
+  "apkVersionCode": 1,
+  "apkUrl": "https://example.com/ajojosgame-latest.apk",
+  "baseUrl": "https://raw.githubusercontent.com/YOUR-USER/a-jojos-game/main/content/",
+  "changelog": [
+    "Fixed DIO knife and laser animations",
+    "New stage: Cairo Street",
+    "Balance tweaks"
+  ],
+  "files": [
+    { "path": "atlas_dio.json", "sha256": "" },
+    { "path": "bg_cairo.png", "sha256": "" }
+  ]
+}
