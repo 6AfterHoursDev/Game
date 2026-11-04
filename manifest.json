@@ -1,12 +1,12 @@
 {
-  "contentVersion": 5,
-  "versionName": "0.7.1",
+  "contentVersion": 6,
+  "versionName": "0.7.2",
   "minVersionCode": 1,
-  "apkVersionCode": 5,
-  "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.7.1/latestgame.apk",
+  "apkVersionCode": 6,
+  "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.7.2/latestgame.apk",
   "baseUrl": "https://raw.githubusercontent.com/6AfterHoursDev/Game/main/content/",
   "changelog": [
-    "ONLINE U-ID PLAYER NAME"
+    "BORDER SCREEN FIX AND PATCHES"
   ],
   "files": []
 }
