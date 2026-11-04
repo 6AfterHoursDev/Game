@@ -1,9 +1,9 @@
 {
-  "contentVersion": 9,
-  "versionName": "0.7.5",
+  "contentVersion": 10,
+  "versionName": "0.7.6",
   "minVersionCode": 1,
-  "apkVersionCode": 9,
-  "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.7.5/latestgame.apk",
+  "apkVersionCode": 10,
+  "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.7.6/latestgame.apk",
   "baseUrl": "https://raw.githubusercontent.com/6AfterHoursDev/Game/main/content/",
   "changelog": [
     "+JOTARO NEW, FIX SCREEN, FIX ONLINE AND PATCHES..."
