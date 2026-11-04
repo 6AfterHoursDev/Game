@@ -10,7 +10,5 @@
     "Multiplayer and Dio Added",
     "Balance tweaks"
   ],
-"files": [
-  { "path": "atlas_dio.json", "sha256": "" }
-]
+"files": []
 }
