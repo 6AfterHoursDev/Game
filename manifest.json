@@ -1,12 +1,12 @@
 {
-  "contentVersion": 2,
-  "versionName": "0.6.9",
+  "contentVersion": 4,
+  "versionName": "0.7.0",
   "minVersionCode": 1,
-  "apkVersionCode": 3,
-  "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.6.9/latestgame.apk",
+  "apkVersionCode": 4,
+  "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.7.0/latestgame.apk",
   "baseUrl": "https://raw.githubusercontent.com/6AfterHoursDev/Game/main/content/",
   "changelog": [
-    "LANG, FIX UI, ONLINE AND PATCHES"
+    "ONLINE U-ID PLAYER NAME"
   ],
   "files": []
 }
