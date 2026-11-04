@@ -1,12 +1,12 @@
 {
   "contentVersion": 2,
-  "versionName": "0.6.8",
+  "versionName": "0.6.9",
   "minVersionCode": 1,
-  "apkVersionCode": 2,
+  "apkVersionCode": 3,
   "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.6.8/latestgame.apk",
   "baseUrl": "https://raw.githubusercontent.com/6AfterHoursDev/Game/main/content/",
   "changelog": [
-    "UPDATE FIX - ONLINE SYNC 0.6.8"
+    "UPDATE FIX - ONLINE 0.6.9"
   ],
   "files": []
 }
