@@ -1,9 +1,9 @@
 {
   "contentVersion": 2,
-  "versionName": "1.1.0",
+  "versionName": "0.6.7",
   "minVersionCode": 1,
   "apkVersionCode": 1,
- "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v1.1.0/ajojosgame-latest.apk"
+  "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.6.7/ajojosgame-latest.apk",
   "baseUrl": "https://raw.githubusercontent.com/6AfterHoursDev/a-jojos-game/main/content/",
   "changelog": [
     "Fixed DIO knife and laser animations",
