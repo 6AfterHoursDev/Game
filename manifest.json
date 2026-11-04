@@ -3,11 +3,11 @@
   "versionName": "1.1.0",
   "minVersionCode": 1,
   "apkVersionCode": 1,
-  "apkUrl": "https://example.com/ajojosgame-latest.apk",
-  "baseUrl": "https://raw.githubusercontent.com/YOUR-USER/a-jojos-game/main/content/",
+ "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v1.1.0/ajojosgame-latest.apk"
+  "baseUrl": "https://raw.githubusercontent.com/6AfterHoursDev/a-jojos-game/main/content/",
   "changelog": [
     "Fixed DIO knife and laser animations",
-    "New stage: Cairo Street",
+    "Multiplayer and Dio Added",
     "Balance tweaks"
   ],
   "files": [
