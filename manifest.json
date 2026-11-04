@@ -1,12 +1,12 @@
 {
-  "contentVersion": 6,
-  "versionName": "0.7.2",
+  "contentVersion": 7,
+  "versionName": "0.7.3",
   "minVersionCode": 1,
-  "apkVersionCode": 6,
-  "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.7.2/latestgame.apk",
+  "apkVersionCode": 7,
+  "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.7.3/latestgame.apk",
   "baseUrl": "https://raw.githubusercontent.com/6AfterHoursDev/Game/main/content/",
   "changelog": [
-    "BORDER SCREEN FIX AND PATCHES"
+    "+JOTARO ADDED, FIX SCREEN, FIX ONLINE AND PATCHES"
   ],
   "files": []
 }
