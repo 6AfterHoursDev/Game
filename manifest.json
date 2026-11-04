@@ -4,11 +4,13 @@
   "minVersionCode": 1,
   "apkVersionCode": 1,
   "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.6.7/latestgame.apk",
-"baseUrl": "https://raw.githubusercontent.com/6AfterHoursDev/Game/main/content/",
+  "baseUrl": "https://raw.githubusercontent.com/6AfterHoursDev/Game/main/content/",
   "changelog": [
     "Fixed DIO knife and laser animations",
     "Multiplayer and Dio Added",
     "Balance tweaks"
   ],
-"files": []
+  "files": [
+    { "path": "atlas_dio.json", "sha256": "" }
+  ]
 }
