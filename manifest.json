@@ -1,14 +1,12 @@
 {
   "contentVersion": 2,
-  "versionName": "0.6.7",
+  "versionName": "0.6.8",
   "minVersionCode": 1,
-  "apkVersionCode": 1,
-  "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.6.7/latestgame.apk",
+  "apkVersionCode": 2,
+  "apkUrl": "https://github.com/6AfterHoursDev/Game/releases/download/v0.6.8/latestgame.apk",
   "baseUrl": "https://raw.githubusercontent.com/6AfterHoursDev/Game/main/content/",
   "changelog": [
-    "Fixed DIO knife and laser animations",
-    "Multiplayer and Dio Added",
-    "Balance tweaks"
+    "Actualización a la versión 0.6.8"
   ],
   "files": []
 }
